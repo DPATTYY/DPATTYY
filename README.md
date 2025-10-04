@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+I’m Dharm Patel, a Computer Science (Hons) and IT Management student from Auckland, New Zealand, passionate about bridging technology and business strategy. My experience spans digital product development, Agile project delivery, and user-centred design, with a focus on building data-driven solutions that solve real-world problems.<br>Over the past few years, I’ve:<br>Interned at Putti Apps as a Digital Research & Strategy Intern, guiding IT product decisions with research insights and collaborating across design and engineering teams.<br>Led the UnHinged project as Project Manager & Frontend Developer, earning recognition as a Community Impact Award Finalist for delivering innovative, human-centred solutions.<br>Developed a VR Construction Safety Training System for my Honours project, integrating AI-driven hazard detection with immersive 3D environments in Unity.<br>🔑 I thrive at the intersection of product strategy and technical execution—whether that’s sprint planning in Agile teams, coding in Python/Java/React, or translating complex requirements into clear stakeholder outcomes.<br>🌍 Beyond tech, I value curiosity, perseverance, and integrity, and I’m motivated by opportunities to make a measurable impact through innovation.
 
-<!--
-**DPATTYY/DPATTYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat-square&logo=Adobe%20Fonts&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DPATTYY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DPATTYY&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DPATTYY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
